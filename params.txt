@@ -1,0 +1,16 @@
+
+
+tries = 10
+
+exhaustiveness = 8 
+cpu = 16
+
+num_mod = 10
+energy_range = 20
+cx=29.893
+cy=-0.429
+cz=23.250
+
+sx=20
+sy=20
+sz=18
